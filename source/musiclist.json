@@ -1,0 +1,74 @@
+[
+  { "name" : "背对背拥抱",
+    "singer" : "林俊杰",
+    "ablum" : "背对背拥抱",
+    "time" : "03:55",
+    "link_url" : "./source/林俊杰 - 背对背拥抱.mp3",
+    "cover" : "./source/林俊杰 - 背对背拥抱.png",
+    "link_lrc" : "./source/林俊杰 - 背对背拥抱.txt"
+  },
+  {
+    "name":"当你",
+	"singer":"林俊杰",
+	"ablum":"当你",
+	"time":"04:09",
+	"link_url":"./source/林俊杰 - 当你.mp3",
+	"cover":"./source/林俊杰 - 当你.png",
+	"link_lrc":"./source/林俊杰 - 当你.txt"
+  },
+  {
+	"name":"刚刚好",
+	"singer":"薛之谦",
+	"ablum":"刚刚好",
+	"time":"04:11",
+	"link_url":"./source/薛之谦 - 刚刚好.mp3",
+	"cover":"./source/薛之谦 - 刚刚好.png",
+	"link_lrc":"./source/薛之谦 - 刚刚好.txt"
+  },
+  {
+	"name":"一半",
+	"singer":"薛之谦",
+	"ablum":"一半",
+	"time":"04:46",
+	"link_url":"./source/薛之谦 - 一半.mp3",
+	"cover":"./source/薛之谦 - 一半.png",
+	"link_lrc":"./source/薛之谦 - 一半.txt"
+  },
+	{ "name" : "背对背拥抱",
+		"singer" : "林俊杰",
+		"ablum" : "背对背拥抱",
+		"time" : "03:55",
+		"link_url" : "./source/林俊杰 - 背对背拥抱.mp3",
+		"cover" : "./source/林俊杰 - 背对背拥抱.png",
+		"link_lrc" : "./source/林俊杰 - 背对背拥抱.txt"
+	},
+	{
+		"name":"当你",
+		"singer":"林俊杰",
+		"ablum":"当你",
+		"time":"04:09",
+		"link_url":"./source/林俊杰 - 当你.mp3",
+		"cover":"./source/林俊杰 - 当你.png",
+		"link_lrc":"./source/林俊杰 - 当你.txt"
+	},
+	{
+		"name":"刚刚好",
+		"singer":"薛之谦",
+		"ablum":"刚刚好",
+		"time":"04:11",
+		"link_url":"./source/薛之谦 - 刚刚好.mp3",
+		"cover":"./source/薛之谦 - 刚刚好.png",
+		"link_lrc":"./source/薛之谦 - 刚刚好.txt"
+	},
+	{
+		"name":"一半",
+		"singer":"薛之谦",
+		"ablum":"一半",
+		"time":"04:46",
+		"link_url":"./source/薛之谦 - 一半.mp3",
+		"cover":"./source/薛之谦 - 一半.png",
+		"link_lrc":"./source/薛之谦 - 一半.txt"
+	}
+
+
+]

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>qq音乐</title>
+	<link rel="stylesheet" href="CSS/jquery.mCustomScrollbar.css">
+	<link rel="stylesheet" href="CSS/index.css">
+	<script src="JS/jquery-1.8.3.min.js"></script>
+	<script src="JS/jquery.mCustomScrollbar.concat.min.js"></script>
+	<script src="JS/player.js"></script>
+    <script src="JS/progress.js"></script>
+	<script src="JS/lyric.js"></script>
+	<script src="JS/index.js"></script><!--先导入别人的再导入自己的-->
+</head>
+<body>
+<!--头部开始-->
+<div class="header">
+	<h1 class="logo"><a href="#"></a></h1>
+	<ul class="register">
+		<li>登录</li>
+		<li>注册</li>
+	</ul>
+</div>
+<!--头部结束-->
+<!--内容区开始-->
+<div class="content">
+	<div class="content_in">
+		<div class="content_left">
+			<div class="content_toolbar">
+				<span><i></i>收藏</span>
+				<span><i></i>添加到</span>
+				<span><i></i>下载</span>
+				<span><i></i>删除</span>
+				<span><i></i>清空列表</span>
+			</div>
+			<div class="content_list" data-mcs-theme="minimal-dark">
+				<ul>
+					<li class="list_title">
+						<div class="list_check"><i></i></div>
+						<div class="list_number"></div>
+						<div class="list_name">歌曲</div>
+						<div class="list_singer">歌手</div>
+						<div class="list_time">时长</div>
+					</li>
+					<!--<li class="list_music">-->
+						<!--<div class="list_check"><i></i></div>-->
+						<!--<div class="list_number">1</div>-->
+						<!--<div class="list_name">想自由-->
+							<!--<div class="list_menu">-->
+								<!--<a href="javascript:;" title="播放"></a>-->
+								<!--<a href="javascript:;" title="添加"></a>-->
+								<!--<a href="javascript:;" title="下载"></a>-->
+								<!--<a href="javascript:;" title="分享"></a>-->
+							<!--</div>-->
+						<!--</div>-->
+						<!--<div class="list_singer">林宥嘉</div>-->
+						<!--<div class="list_time">-->
+							<!--<span>00:14</span>-->
+							<!--<a href="javascript:;" title="删除"></a>-->
+						<!--</div>-->
+					<!--</li>-->
+				</ul>
+			</div>
+		</div>
+		<div class="content_right">
+			<div class="song_info">
+				<a href="javascript:;" class="song_info_pic">
+					<img src="images/T002R300x300M000000SNLVL1Wn7Xh.jpg" alt="">
+				</a>
+				<div class="song_info_name">歌曲名称：
+					<a href="javascript:;">想自由</a>
+				</div>
+				<div class="song_info_singer">歌手名：
+					<a href="javascript:;">林宥嘉</a>
+				</div>
+				<div class="song_info_ablum">专辑名：
+					<a href="javascript:;">想自由</a>
+				</div>
+			</div>
+            <div class="song_lyric_container">
+                <ul class="song_lyric">
+                    <!--<li class="cur">第一条歌词</li>-->
+                    <!--<li>第二条歌词</li>-->
+                </ul>
+            </div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<div class="footer_in">
+		<a href="javascripe:;" class="music_pre"></a>
+		<a href="javascripe:;" class="music_play"></a>
+		<a href="javascripe:;" class="music_next"></a>
+		<div class="music_progress_info">
+			<div class="music_progress_top">
+				<span class="music_progress_name">想自由/林宥嘉</span>
+				<span  class="music_progress_time">00:00/00:14</span>
+			</div>
+			<div class="music_progress_bar">
+				<div class="music_progress_line">
+					<div class="music_progress_dot"></div>
+				</div>
+			</div>
+		</div>
+		<a href="" class="music_mode"></a>
+		<a href="" class="music_fav"></a>
+		<a href="" class="music_down"></a>
+		<a href="" class="music_comment"></a>
+		<a href="" class="music_only"></a>
+		<div class="music_voice_info">
+			<a href="javascripe:;" class="music_voice_icon"></a>
+			<div class="music_voice_bar">
+				<div class="music_voice_line">
+					<div class="music_voice_dot"></div>
+				</div>
+			</div>
+		</div> 
+	</div>
+</div>
+<div class="mask_bg"></div>
+<div class="mask"></div>
+<audio src=""></audio>
+</body>
+</html>
